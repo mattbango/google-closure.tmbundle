@@ -1,6 +1,6 @@
 # Google Closure Bundle for TextMate
 
-This is a TextMate bundle to help with Google Closure functions.
+This is a TextMate bundle to help with Google Closure.
 
 ## Author
 
