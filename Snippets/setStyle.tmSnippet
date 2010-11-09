@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>goog.style.setStyle(${1:element_name}, ${2:style_name}, ${3:style_value})</string>
+	<key>name</key>
+	<string>setStyle</string>
+	<key>scope</key>
+	<string>source.js</string>
+	<key>tabTrigger</key>
+	<string>setstyle</string>
+	<key>uuid</key>
+	<string>5F2E950F-295A-4CA8-9F75-37F9D4C909F5</string>
+</dict>
+</plist>
