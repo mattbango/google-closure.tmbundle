@@ -1,13 +1,10 @@
 # Google Closure Bundle for TextMate
-
 This is a TextMate bundle to help with Google Closure.
 
 ## Author
-
-* Matt Bango (http://mattbango.com)
+Matt Bango (http://mattbango.com)
 
 ## Installation
-
 ### Install with Git:
 
     mkdir -p ~/Library/Application\ Support/TextMate/Bundles
@@ -23,3 +20,6 @@ This is a TextMate bundle to help with Google Closure.
     rm mattbango-google-closure-tmbundle*.tar.gz
     mv mattbango-google-closure-tmbundle* "GoogleClosure.tmbundle"
     osascript -e 'tell app "TextMate" to reload bundles'
+
+## Issues
+You can [report a bug or request a feature here](http://github.com/mattbango/google-closure-tmbundle/issues)
