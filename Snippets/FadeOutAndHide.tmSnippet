@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>new goog.fx.dom.FadeOutAndHide(${1:element}, ${2:animation_duration}).play();</string>
+	<key>name</key>
+	<string>FadeOutAndHide</string>
+	<key>scope</key>
+	<string>source.js</string>
+	<key>tabTrigger</key>
+	<string>fadeoutandhide</string>
+	<key>uuid</key>
+	<string>3C5B60E7-A4B2-44C8-8CB8-054B38F1EC49</string>
+</dict>
+</plist>
