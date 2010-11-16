@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>new goog.fx.dom.ResizeHeight(${1:element}, ${2:start_height}, ${3:end_height}, ${4:duration}).play();</string>
+	<key>name</key>
+	<string>ResizeHeight</string>
+	<key>scope</key>
+	<string>source.js</string>
+	<key>tabTrigger</key>
+	<string>resizeheight</string>
+	<key>uuid</key>
+	<string>65439F4C-ECBC-474D-A982-D1F53A24AFB5</string>
+</dict>
+</plist>
