@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>goog.events.EventType.CLICK</string>
+	<key>name</key>
+	<string>CLICK</string>
+	<key>scope</key>
+	<string>source.js</string>
+	<key>tabTrigger</key>
+	<string>clickevent</string>
+	<key>uuid</key>
+	<string>624878D2-0445-4457-9152-E6F283AA89AF</string>
+</dict>
+</plist>
