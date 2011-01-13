@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>goog.dom.classes.addRemove('${1:element}', '${2:classes_to_remove}', '${3:classes_to_add}');</string>
+	<key>name</key>
+	<string>addRemove</string>
+	<key>scope</key>
+	<string>source.js</string>
+	<key>tabTrigger</key>
+	<string>addremoveclass</string>
+	<key>uuid</key>
+	<string>CCBDE575-69CF-4651-BD7C-EA81E98123B4</string>
+</dict>
+</plist>
