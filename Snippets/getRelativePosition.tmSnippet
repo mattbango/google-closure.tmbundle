@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>goog.style.getRelativePosition(${1:a}, ${2:b}); // Where a is relative to b</string>
+	<key>name</key>
+	<string>getRelativePosition</string>
+	<key>scope</key>
+	<string>source.js</string>
+	<key>tabTrigger</key>
+	<string>getrelativeposition</string>
+	<key>uuid</key>
+	<string>8E99E0D4-723A-48C3-BFA2-B00FA1DA1B1A</string>
+</dict>
+</plist>
