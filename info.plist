@@ -9,6 +9,8 @@
 			<string>EC5FAE99-542D-4AB1-9A73-E4EA88DDBAB6</string>
 			<string>B3D4910D-5FCE-41F5-BD67-0DE7FBCA4ED1</string>
 			<string>DA215ECF-BD06-41A7-9618-FB0321587677</string>
+			<string>8C7E46AC-F270-4E72-AA90-11B8AC417982</string>
+			<string>46E12207-27CE-44FA-B92F-1E5AD2924CB0</string>
 			<string>02271DA5-2811-4294-B354-D5F120DD4F34</string>
 			<string>4A5FF8A5-0C25-4D6E-B282-764549F8E580</string>
 			<string>7CB66DC3-6910-4E1B-855D-0A323C4B0B97</string>
@@ -40,10 +42,20 @@
 				<key>name</key>
 				<string>goog.style</string>
 			</dict>
+			<key>46E12207-27CE-44FA-B92F-1E5AD2924CB0</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>BF357379-E413-4F63-95BA-8514C0A9C266</string>
+				</array>
+				<key>name</key>
+				<string>goog.dom.query</string>
+			</dict>
 			<key>4A5FF8A5-0C25-4D6E-B282-764549F8E580</key>
 			<dict>
 				<key>items</key>
 				<array>
+					<string>E1688DB8-5BD0-48EE-A6CA-EB498909F6FE</string>
 					<string>624878D2-0445-4457-9152-E6F283AA89AF</string>
 				</array>
 				<key>name</key>
@@ -60,6 +72,15 @@
 				</array>
 				<key>name</key>
 				<string>goog.fx.dom</string>
+			</dict>
+			<key>8C7E46AC-F270-4E72-AA90-11B8AC417982</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>08B64655-D938-4B23-ABAB-AA60A7CAFAC0</string>
+				</array>
+				<key>name</key>
+				<string>goog.dom.forms</string>
 			</dict>
 			<key>B3D4910D-5FCE-41F5-BD67-0DE7FBCA4ED1</key>
 			<dict>
@@ -114,6 +135,7 @@
 		<string>CCBDE575-69CF-4651-BD7C-EA81E98123B4</string>
 		<string>3125ED0C-9439-4E55-B3AA-2073451DCCC7</string>
 		<string>35BE7640-7132-4ED9-8A7F-1BB84539C276</string>
+		<string>E1688DB8-5BD0-48EE-A6CA-EB498909F6FE</string>
 		<string>624878D2-0445-4457-9152-E6F283AA89AF</string>
 		<string>B0440EA1-69B0-404B-AA9D-73F6C9285A9B</string>
 		<string>F0711577-6C32-46A1-BAAA-D025A5BC0F31</string>
@@ -130,6 +152,7 @@
 		<string>8E99E0D4-723A-48C3-BFA2-B00FA1DA1B1A</string>
 		<string>AEECFD72-002E-4969-AB2B-7E1C9D34F77B</string>
 		<string>0213AF56-D95D-412D-800E-5080B7661237</string>
+		<string>08B64655-D938-4B23-ABAB-AA60A7CAFAC0</string>
 		<string>37958A87-BBB8-40C3-9B45-FDC2349755B2</string>
 		<string>29C50D40-7760-45FF-9C38-C998E77F5D9C</string>
 		<string>EAFDDD78-BF65-4489-96DA-832C3F39CED4</string>

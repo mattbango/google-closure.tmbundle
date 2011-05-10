@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>goog.dom.query('${1:selector}', ${2:document})</string>
+	<string>goog.dom.query('${1:selector}')</string>
 	<key>name</key>
 	<string>$</string>
 	<key>scope</key>
